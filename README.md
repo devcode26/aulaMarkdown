@@ -47,7 +47,7 @@ Requisitos de Restrição: São limitações impostas ao projeto, como prazos, o
 - Requisito de Restrição  |	Desenvolver o sistema dentro de um orçamento de $50.000.Exemplo
 
 
-# Link para pode acessar
+# 🔎 Link para pode acessar🔎 
 
 https://medium.com/@danielemsilva/as-4-atividades-do-processo-de-software-2674eea9f499
 
