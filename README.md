@@ -33,7 +33,7 @@ Requisitos de Domínio: Refletem práticas ou regulamentações específicas do 
 Requisitos de Restrição: São limitações impostas ao projeto, como prazos, orçamento e recursos disponíveis, como "o sistema deve ser desenvolvido dentro do orçamento atribuído".
 
 
-# Imagem
+# Imagens
 ![fluxo grama](https://miro.medium.com/v2/resize:fit:1400/0*l2zBbRz8yG7cbtLB)
 
 # Tabela de Requisitos
@@ -46,16 +46,10 @@ Requisitos de Restrição: São limitações impostas ao projeto, como prazos, o
 - Requisito de Domínio    | Integrar o sistema de pagamento local específico do país de operação.
 - Requisito de Restrição  |	Desenvolver o sistema dentro de um orçamento de $50.000.Exemplo
 
-# Deverá inserir uma tabela comparativa, exemplicando o use case
 
-Realizar Compra: Este caso de uso permite que os usuários naveguem pelos produtos, selecionem itens, adicionem-nos ao carrinho de compras e finalizem a transação.
+# Link para pode acessar
 
-Gerenciar Estoque: Esse caso de uso é destinado aos administradores do sistema, permitindo que eles atualizem o estoque de produtos, adicionando novos itens, removendo produtos esgotados e modificando quantidades disponíveis.
-
-Enviar Notificação: Esse caso de uso possibilita o envio de notificações aos usuários, informando sobre promoções, atualizações de pedidos ou outras informações relevantes relacionadas ao sistema de comércio eletrônico.
-
-
-https://chat.openai.com/c/fd188747-3b1c-461e-9fbf-5abed38c9f29
+https://medium.com/@danielemsilva/as-4-atividades-do-processo-de-software-2674eea9f499
 
 
 
