@@ -50,13 +50,6 @@ Requisito de Restrição |	Desenvolver o sistema dentro de um orçamento de $50.
 
 https://medium.com/@danielemsilva/as-4-atividades-do-processo-de-software-2674eea9f499
 
-Tipo de Requisitos |  Exemplos
---------- | ------
-Requisito Funcional | Permitir que os usuários pesquisem produtos por categoria.
-Requisito Não Funcional | Garantir que o tempo de resposta do sistema seja inferior a 2 segundos.
-Requisito de Domínio | Integrar o sistema de pagamento local específico do país de operação.
-Requisito de Restrição |	Desenvolver o sistema dentro de um orçamento de $50.000.Exemplo
-
 
 
 
